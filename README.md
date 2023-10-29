@@ -21,7 +21,7 @@ An application for organizing and managing contact information.
 Allows users to store and retrieve contact details, search for contacts, and perform other contact management tasks.
 Simplifies the process of maintaining a digital address book.
 
-4)Product Sales Management System:
+4) Product Sales Management System:
 
 A solution for tracking and managing product sales and inventory.
 Includes features for adding and updating products, tracking sales, and generating sales reports.
